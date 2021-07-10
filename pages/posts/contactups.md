@@ -28,9 +28,9 @@ UPS est connu pour ses camions de livraison et ses uniformes bruns, d'où le sur
 
 | **Option** | **Description**                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| First      | Le service des réclamations n'est pas affilié à, lié ou autrement approuvé par UPS (FR). Tous les noms de produits et de sociétés sont des marques commerciales ou des marques déposées de leurs détenteurs respectifs.
+
+Nous sommes un annuaire indépendant d'informations de contact qui permet aux consommateurs de trouver rapidement et efficacement les informations de contact appropriées et de discuter de leurs propres expériences de réclamation avec d'autres internautes. |
 
 ## Links
 
