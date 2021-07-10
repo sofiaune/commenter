@@ -1,6 +1,6 @@
 ---
 title: Contact Fedex
-description: FedEx Corporation est une organisation américaine d'administrations de transport..
+description: FedEx Corporation est une organisation américaine d'administrations de transport de messagerie mondiale établie à Memphis, Tennessee. Le nom « FedEx » est un raccourcissement syllabique du nom de la division aérienne unique de l'organisation, Federal Express, qui a été utilisé de 1973 à 2000. L'organisation est connue pour son administration de transport prioritaire, mais aussi pour être le fer de lance d'un cadre qui pourrait suivre paquets et donner des mises à jour continues sur la zone des paquets (pour aider à découvrir les paquets perdus), un élément qui a maintenant été exécuté par la plupart des autres administrations de transporteur..
 tag: commenter
 ---
 
