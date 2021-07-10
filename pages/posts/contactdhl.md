@@ -1,6 +1,6 @@
 ---
 title: Contact DHL
-description: DHL Express est une division de l'organisation de coordination allemande..
+description: DHL Express est une division de l'organisation de coordination allemande Deutsche Post DHL offrant des services de livraison accélérés dans le monde entier. Deutsche Post DHL est la plus grande organisation de coordination au monde travaillant sur toute la planète, en particulier dans le domaine maritime et aérien..
 tag: commenter
 ---
 
