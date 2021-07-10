@@ -33,7 +33,7 @@ import Image from 'next/image'
 
 ## Liens
 
-- Visitez le [site officiel](https://www.chronopost.fr)
+- Visitez le [site officiel](https://www.chronopost.fr/fr#/step-home)
 - Appelez le service client au [0969-391-391](0969-391-391)
 - Tweet [Chronopost](https://twitter.com/Chronopost)
 - Facebook [Chronopost](https://www.facebook.com/chronopost)
