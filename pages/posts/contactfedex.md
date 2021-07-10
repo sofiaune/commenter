@@ -1,6 +1,6 @@
 ---
 title: Contact Fedex
-description: DHL Express est une division de l'organisation de coordination allemande..
+description: FedEx Corporation est une organisation américaine d'administrations de transport..
 tag: commenter
 ---
 
