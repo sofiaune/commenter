@@ -36,7 +36,7 @@ import Image from 'next/image'
 ## Liens
 
 - Visitez le [site officiel](https://www.dhl.com/fr-fr/home.html)
-- Appelez le service client au 0820-208-080](0820-208-080)
+- Appelez le service client au [0820-208-080](0820-208-080)
 - Tweet [DHL](https://twitter.com/dhlexpressfr)
 - Facebook [DHL](https://www.facebook.com/dhl)
 
