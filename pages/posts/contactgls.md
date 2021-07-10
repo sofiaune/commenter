@@ -1,6 +1,6 @@
 ---
 title: Contact GLS
-description: Alors, à ce stade, comment pourrais-je contacter GLS Transportation..
+description: Vous pouvez téléphoner à notre service clientèle au 0344 800 4466 au Royaume-Uni. Les appels sont facturés au tarif du quartier. A tout hasard que vous appelez d'un objectif à l'étranger si ce n'est pas trop de problème, appelez votre transporteur de colis de quartier. Dans le cas où vous pouvez faire votre demande en 280 caractères ou moins, contactez-nous sur Twitter et nous vous répondrons sur Twitter avec la solution à votre demande...
 tag: commenter
 ---
 
