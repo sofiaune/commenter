@@ -12,7 +12,7 @@ Vous avez décidé d'envoyer un colis Chronopost en France ou à l'étranger ? E
 
 Que vous soyez à la maison ou au travail, il est important que vous puissiez accéder en continu à toutes les données concernant l'expédition de votre paquet. Vous pouvez accéder à l'intégralité de ses données via le site Chronopost pour les particuliers et les experts, sur la page "suivre votre colis". Vous devez saisir votre numéro de lot, assortiment ou conseiller voyage dans l'espace dédié. Vous pouvez suivre l'intégralité des données de votre envoi depuis votre PC ou portable. Cela vous simplifiera la gestion de vos envois en France ou à l'étranger.
 
-Pour plus d'informations sur le service client UPS, visitez la page ci-dessous www.chronopost.fr
+Pour plus d'informations sur le service client UPS, visitez la page ci-dessous chronopost.fr
 
 | **Service client** |                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
