@@ -37,6 +37,8 @@ import Image from 'next/image'
 - Visitez le [site officiel](https://www.ups.com/be/fr/help-support-center.page?)
 - Appelez le service client au [078-250-877](078-250-877)
 - Soutien technique (+32 (0) 22 56 66 19)
+- Tweet [https://twitter.com/ups_fr](UPS)
+- Facebook [https://www.facebook.com/ups/](UPS)
 
 [^1]: Footnote **can have markup**
 
