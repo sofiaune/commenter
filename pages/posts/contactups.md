@@ -1,6 +1,6 @@
 ---
 title: Contact UPS
-description: United Parcel Service, Inc. (UPS) est la plus grande entreprise..
+description: Joined Parcel Service, Inc. (UPS) est la plus grande organisation de transport de colis au monde et un fournisseur de réseau d'inventaire pour les arrangements de bord. L'organisation des coordinations mondiales est installée à Sandy Springs, en Géorgie, ce qui est essentiel pour la région métropolitaine du Grand Atlanta. UPS transporte plus de 15 millions de colis chaque jour à plus de 7,9 millions de clients dans plus de 220 pays et régions à travers la planète...
 tag: commenter
 ---
 
