@@ -25,7 +25,7 @@ Nous sommes un annuaire indépendant d'informations de contact qui permet aux co
 import Image from 'next/image'
 
 <Image
-  src="/images/dhl.png"
+  src="/images/dhl-logo.png"
   alt="Photo"
   width={210}
   height={210}
