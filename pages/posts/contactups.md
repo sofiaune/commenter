@@ -13,6 +13,8 @@ United Parcel Service, Inc. (UPS) est la plus grande entreprise de livraison de 
 
 UPS est connu pour ses camions de livraison et ses uniformes bruns, d'où le surnom de l'entreprise "Brown". UPS exploite également son propre service de livraison de fret aérien et aérien basé à Louisville, Kentucky.
 
+Pour plus d'informations sur [le service client UPS](https://lesservicesclients.fr/ups/), visitez la page ci-dessous [https://www.ups.com/upsemail/input?loc=fr_FR](https://www.ups.com/upsemail/input?loc=fr_FR)
+
 | **Service client** |                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
 Le service des réclamations n'est pas affilié à, lié ou autrement approuvé par UPS (FR). Tous les noms de produits et de sociétés sont des marques commerciales ou des marques déposées de leurs détenteurs respectifs.
