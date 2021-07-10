@@ -19,6 +19,16 @@ Le service des réclamations n'est pas affilié à, lié ou autrement approuvé 
 
 Nous sommes un annuaire indépendant d'informations de contact qui permet aux consommateurs de trouver rapidement et efficacement les informations de contact appropriées et de discuter de leurs propres expériences de réclamation avec d'autres internautes. 
 
+import Image from 'next/image'
+
+<Image
+  src="/images/photo2.jpg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 ## Liens
 
