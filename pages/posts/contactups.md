@@ -31,7 +31,7 @@ Nous sommes un annuaire indépendant d'informations de contact qui permet aux co
 # Photos
 
  <Image
-  src="/images/ups.jpg"
+  src="https://i.ibb.co/Q8WLXdB/ups.jpg"
   alt="Photo"
   width={200}
   height={200}
