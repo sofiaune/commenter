@@ -32,8 +32,7 @@ import Image from 'next/image'
 ## Liens
 
 - Visitez le [site officiel](https://www.fedex.com/fr-fr/home.html)
-- Appelez le service client au [0820 123 800](0820 123 800)
-- Soutien technique (+32 (0) 22 56 66 19)
+- Appelez le service client au [08 20 123 800](08 20 123 800)
 - Tweet [Fedex](https://twitter.com/FedExEurope)
 - Facebook [Fedex](https://www.facebook.com/FedExEurope)
 
