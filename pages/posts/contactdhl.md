@@ -25,10 +25,10 @@ Nous sommes un registre autonome de données de contact qui permet aux acheteurs
 import Image from 'next/image'
 
 <Image
-  src="/images/dhl.png"
+  src="/images/Logo-DHL.jpg"
   alt="Photo"
   width={210}
-  height={210}
+  height={80}
   priority
   className="next-image"
 />
