@@ -25,7 +25,7 @@ Nous sommes un registre autonome de données de contact qui permet aux acheteurs
 import Image from 'next/image'
 
 <Image
-  src="/images/dhl-logo.png"
+  src="/images/dhl.png"
   alt="Photo"
   width={210}
   height={210}
@@ -36,8 +36,7 @@ import Image from 'next/image'
 ## Liens
 
 - Visitez le [site officiel](https://www.dhl.com/fr-fr/home.html)
-- Appelez le service client au [08 20 20 80 80](08 20 20 80 80)
-- Soutien technique (+32 (0) 22 56 66 19)
+- Appelez le service client au 0820-208-080](0820-208-080)
 - Tweet [DHL](https://twitter.com/dhlexpressfr)
 - Facebook [DHL](https://www.facebook.com/dhl)
 
