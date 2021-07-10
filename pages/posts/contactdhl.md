@@ -1,6 +1,6 @@
 ---
 title: Contact DHL
-description: DHL Express est une division de la société de logistique allemande..
+description: DHL Express est une division de l'organisation de coordination allemande..
 tag: commenter
 ---
 
