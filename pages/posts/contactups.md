@@ -8,17 +8,17 @@ tag: commenter
 
 ## UPS Limitée
 
-United Parcel Service, Inc. (UPS) est la plus grande entreprise de livraison de colis au monde et un fournisseur de solutions de gestion de la chaîne d'approvisionnement. La société mondiale de logistique a son siège à Sandy Springs, en Géorgie, qui fait partie de la région métropolitaine du Grand Atlanta. UPS livre plus de 15 millions de colis par jour à plus de 7,9 millions de clients dans plus de 220 pays et territoires à travers le monde.
+Joined Parcel Service, Inc. (UPS) est la plus grande organisation de transport de colis au monde et un fournisseur de réseau d'inventaire pour les arrangements de bord. L'organisation des coordinations mondiales est installée à Sandy Springs, en Géorgie, ce qui est essentiel pour la région métropolitaine du Grand Atlanta. UPS transporte plus de 15 millions de colis chaque jour à plus de 7,9 millions de clients dans plus de 220 pays et régions à travers la planète.
 
-UPS est connu pour ses camions de livraison et ses uniformes bruns, d'où le surnom de l'entreprise "Brown". UPS exploite également son propre service de livraison de fret aérien et aérien basé à Louisville, Kentucky.
+UPS est connu pour ses camions de transport de couleur terre et ses insignes, par la suite l'épithète de l'organisation « Marron ». UPS possède également sa propre administration de transport aérien et de transport aérien située à Louisville, Kentucky.
 
 Pour plus d'informations sur [le service client UPS](https://lesservicesclients.fr/ups/), visitez la page ci-dessous [www.ups.com](https://www.ups.com/upsemail/input?loc=fr_FR)
 
 | **Service client** |                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-Le service des réclamations n'est pas affilié à, lié ou autrement approuvé par UPS (FR). Tous les noms de produits et de sociétés sont des marques commerciales ou des marques déposées de leurs détenteurs respectifs.
+Le département des protestations n'est pas subsidiaire, lié ou en aucun cas adopté par UPS. Tous les noms d'articles et d'amis sont des noms de marque réservés ou inscrits de leurs détenteurs individuels.
 
-Nous sommes un annuaire indépendant d'informations de contact qui permet aux consommateurs de trouver rapidement et efficacement les informations de contact appropriées et de discuter de leurs propres expériences de réclamation avec d'autres internautes. 
+Nous sommes un registre autonome de données de contact qui permet aux acheteurs de découvrir rapidement et efficacement les données de contact appropriées et de signaler leurs propres griefs avec d'autres clients Web.
 
 import Image from 'next/image'
 
