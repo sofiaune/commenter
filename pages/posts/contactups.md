@@ -1,30 +1,14 @@
 ---
-title: Markdown Examples
+title: Contact UPS
 date: 2021/3/19
 description: View examples of all possible Markdown options.
 tag: web development
 author: You
 ---
 
-# Markdown Examples
+# Contact UPS
 
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
+## UPS Limitée
 
 ## Blockquotes
 
@@ -32,46 +16,13 @@ _This is italic text_
 
 ## Lists
 
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
 Ordered
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+United Parcel Service, Inc. (UPS) est la plus grande entreprise de livraison de colis au monde et un fournisseur de solutions de gestion de la chaîne d'approvisionnement. La société mondiale de logistique a son siège à Sandy Springs, en Géorgie, qui fait partie de la région métropolitaine du Grand Atlanta. UPS livre plus de 15 millions de colis par jour à plus de 7,9 millions de clients dans plus de 220 pays et territoires à travers le monde.
 
-## Code
+UPS est connu pour ses camions de livraison et ses uniformes bruns, d'où le surnom de l'entreprise "Brown". UPS exploite également son propre service de livraison de fret aérien et aérien basé à Louisville, Kentucky.
 
-Inline `code`
 
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
 
 ## Tables
 
