@@ -8,19 +8,19 @@ tag: commenter
 
 ## DHL Limitée
 
-DHL Express est une division de la société de logistique allemande Deutsche Post DHL qui fournit des services de courrier express international. Deutsche Post DHL est la plus grande entreprise de logistique au monde opérant dans le monde entier, en particulier dans le courrier maritime et aérien.
+DHL Express est une division de l'organisation de coordination allemande Deutsche Post DHL offrant des services de livraison accélérés dans le monde entier. Deutsche Post DHL est la plus grande organisation de coordination au monde travaillant sur toute la planète, en particulier dans le domaine maritime et aérien.
 
-Fondée à l'origine en 1969 pour livrer des documents entre San Francisco et Honolulu, la société a étendu son service à travers le monde à la fin des années 1970. La société s'intéressait principalement aux livraisons offshore et intercontinentales, mais le succès de FedEx a incité sa propre expansion à l'intérieur des États-Unis à partir de 1983. DHL s'est étendu à des pays qui ne pouvaient être desservis par aucun autre service de livraison, y compris Cuba, l'Union soviétique , Bloc de l'Est, Irak, Iran, Chine, Vietnam et Corée du Nord.
+Initialement créée en 1969 pour transmettre des rapports entre San Francisco et Honolulu, l'organisation a étendu son administration à travers le monde jusqu'à la dernière partie des années 1970. L'organisation était essentiellement intriguée par les transports maritimes et entre les transports continentaux, mais la création de FedEx a provoqué son propre développement intra-américain à partir de 1983. DHL s'est étendu aux pays qui ne pouvaient pas être desservis par une autre administration de transport, y compris Cuba, l'Union soviétique , Bloc de l'Est, Irak, Iran, Chine, Vietnam et Corée du Nord.
 
-En 1998, Deutsche Post a commencé à acquérir des actions dans DHL. Elle est finalement devenue majoritaire en 2001 et a finalisé l'achat en 2002. Deutsche Post a ensuite effectivement absorbé DHL dans sa division Express, tout en élargissant l'utilisation de la marque DHL à d'autres divisions, unités commerciales et filiales de Deutsche Post. Aujourd'hui, DHL Express partage sa marque DHL avec d'autres unités commerciales de Deutsche Post, telles que DHL Global Forwarding et DHL Supply Chain.
+En 1998, Deutsche Post a commencé à prendre des actions dans DHL. Il est enfin arrivé à la propriété en plus grande partie en 2001 et a terminé l'achat en 2002. Deutsche Post a ensuite intégré avec succès DHL dans sa division Express, tout en étendant l'utilisation de la marque DHL à d'autres divisions de Deutsche Post, unités spécialisées. et auxiliaires. Aujourd'hui, DHL Express offre son image DHL avec d'autres unités spécialisées de Deutsche Post, comme DHL Global Forwarding et DHL Supply Chain.
 
 Pour plus d'informations sur [le service client DHL](https://lesservicesclients.fr/dhl/), visitez la page ci-dessous [www.dhl.com](https://www.dhl.com/fr-fr/home/customer-service.html)
 
 | **Service client** |                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-Le service des réclamations n'est pas affilié à, lié ou autrement approuvé par DHL (Royaume-Uni). Tous les noms de produits et de sociétés sont des marques ou des marques déposées de leurs détenteurs respectifs.
+Le département des protestations n'est pas subsidiaire, lié ou en aucun cas adopté par DHL (Royaume-Uni). Tous les noms d'articles et d'amis sont des noms de marque réservés ou inscrits de leurs détenteurs individuels.
 
-Nous sommes un annuaire indépendant d'informations de contact qui permet aux consommateurs de trouver rapidement et efficacement les informations de contact appropriées et de discuter de leurs propres expériences de réclamation avec d'autres internautes.
+Nous sommes un registre autonome de données de contact qui permet aux acheteurs de découvrir rapidement et efficacement les données de contact appropriées et de signaler leurs propres griefs avec d'autres clients Web.
 
 import Image from 'next/image'
 
