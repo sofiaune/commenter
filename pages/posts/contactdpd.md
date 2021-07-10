@@ -31,8 +31,8 @@ import Image from 'next/image'
 <Image
   src="/images/dpd.png"
   alt="Photo"
-  width={210}
-  height={130}
+  width={235}
+  height={107}
   priority
   className="next-image"
 />
