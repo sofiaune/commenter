@@ -1,6 +1,6 @@
 ---
 title: Contact DPD
-description: DPD est une organisation mondiale de transport de colis revendiquée par GeoPost. Il compte plus de 830 arrêts dans plus de 40 pays et est l'une des principales administrations européennes de transport groupé interentreprises..
+description: DPD est une organisation mondiale de transport de colis revendiquée par GeoPost. Il compte plus de 830 arrêts dans plus de 40 pays et est l'une des principales administrations européennes de transport groupé interentreprises. L'organisation a été créée en 1977 à Aschaffenburg, en Allemagne de l'Ouest. Au cours de sa première année d'activité, plus de 1,4 million de lots ont été livrés...
 tag: commenter
 ---
 
