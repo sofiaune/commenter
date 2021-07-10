@@ -2,7 +2,6 @@
 title: Contact UPS
 description: View examples of all possible Markdown options.
 tag: commenter
-author: You
 ---
 
 # Contact UPS
