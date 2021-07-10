@@ -28,7 +28,7 @@ Le service des réclamations n'est pas affilié à, lié ou autrement approuvé 
 
 Nous sommes un annuaire indépendant d'informations de contact qui permet aux consommateurs de trouver rapidement et efficacement les informations de contact appropriées et de discuter de leurs propres expériences de réclamation avec d'autres internautes. 
 
-# Photos
+<img src="https://i.ibb.co/Q8WLXdB/ups.jpg" alt="UPS">
 
  <Image
   src="https://i.ibb.co/Q8WLXdB/ups.jpg"
