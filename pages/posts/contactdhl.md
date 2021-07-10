@@ -1,6 +1,6 @@
 ---
 title: Contact DHL
-description: View examples of all possible Markdown options.
+description: DHL Express est une division de la société de logistique allemande..
 tag: commenter
 ---
 
