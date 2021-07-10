@@ -1,6 +1,6 @@
 ---
 title: Contact UPS
-description: View examples of all possible Markdown options.
+description: United Parcel Service, Inc. (UPS) est la plus grande entreprise..
 tag: commenter
 ---
 
