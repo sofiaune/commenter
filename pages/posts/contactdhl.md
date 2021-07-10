@@ -28,7 +28,7 @@ import Image from 'next/image'
   src="/images/Logo-DHL.jpg"
   alt="Photo"
   width={210}
-  height={81}
+  height={130}
   priority
   className="next-image"
 />
