@@ -10,10 +10,6 @@ author: You
 
 ## UPS Limitée
 
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
 ## Lists
 
 Ordered
