@@ -30,7 +30,7 @@ Nous sommes un registre autonome de données de contact qui permet aux acheteurs
 import Image from 'next/image'
 
 <Image
-  src="/images/Logo-Chronopost-2.jpg"
+  src="/images/apple.png"
   alt="Photo"
   width={210}
   height={110}
@@ -77,11 +77,6 @@ import Image from 'next/image'
 <a href="https://www.arobase.org/forums/viewtopic.php?f=3&t=30319&p=98013#p98013">https://www.arobase.org/forums/viewtopic.php?f=3&t=30319&p=98013#p98013</a>
 <a href="https://www.commentreparer.com/43745/Lave-Vaisselle/Reparee-lave-vaisselle-ikea-qui-disjoncte-le-tableau-electrique">https://www.commentreparer.com/43745/Lave-Vaisselle/Reparee-lave-vaisselle-ikea-qui-disjoncte-le-tableau-electrique</a>
 <a href="https://www.google.fr/url?q=https://lesservicesclients.fr">https://www.google.fr/url?q=https://lesservicesclients.fr</a>
-
-
-- Appelez le service client au [0969-391-391](0969-391-391)
-- Tweet [Chronopost](https://twitter.com/Chronopost)
-- Facebook [Chronopost](https://www.facebook.com/chronopost)
 
 [^1]: Footnote **can have markup**
 
