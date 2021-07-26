@@ -1,14 +1,13 @@
 ---
 title: Contact Apple
-description: Vous avez décidé d'envoyer un colis Chronopost en France ou à l'étranger ? Est-il sûr de dire que vous êtes un particulier ou un expert ? Vous devez connaître les différentes phases de prise en charge de votre envoi et par la suite être sensibilisé en permanence à l'avancement de son envoi ? L'aide au suivi Chronopost est à votre disposition, sur le web ou par téléphone, pour vous permettre de suivre chacune des étapes de l'acheminement de votre liasse. Vous voudrez en fait tenir le bénéficiaire au courant du jour d'apparition de son colis et lui dire si un éventuel report du transport pourrait survenir....
+description: Apple (FR) est la branche FR d'Apple Inc - une organisation mondiale américaine avec un camp de base à Cupertino, en Californie. Mac qui planifie, crée et vend des gadgets pour les acheteurs tout comme la programmation et l'équipement PC. Un grognement typique à propos des magasins Apple est l'énorme retard pour les arrangements au Genius Bar. Faire un arrangement dans tous les cas est également une préoccupation typique. Les longs délais de réparation pour les appareils Apple ou les dépenses étonnamment coûteuses pour réparer les gadgets Apple sont des perturbations différentes pour les clients...
 tag: commenter
 ---
 
-# Contact Chronopost
+# Contact Apple
 
-## Chronopost Limitée
+## Apple Limitée
 
-Apple limitée
 Apple (FR) est la branche FR d'Apple Inc - une organisation mondiale américaine avec un camp de base à Cupertino, en Californie. Mac qui planifie, crée et vend des gadgets pour les acheteurs tout comme la programmation et l'équipement PC.
 
 Des grognements normaux
